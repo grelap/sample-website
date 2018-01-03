@@ -2,4 +2,4 @@
 sample www 
 demo:
 
-https://xenogonx.github.io/sample_www_template/
+https://grelap.github.io/sample_www_template/
