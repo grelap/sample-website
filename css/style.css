@@ -7,6 +7,10 @@ body {
   padding-top: 100px;
 }
 
+
+:focus {outline:none;}
+::-moz-focus-inner {border:0;}
+
 h1 span, ul span {
   display: block;
 }
