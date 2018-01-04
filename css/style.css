@@ -65,7 +65,7 @@ p {
 }
 
 a:focus {
-  outline: 0;
+  outline: none;
 }
 
 /* dividers */
