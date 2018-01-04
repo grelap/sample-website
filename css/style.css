@@ -8,8 +8,9 @@ body {
 }
 
 
-:focus {outline:none;}
-::-moz-focus-inner {border:0;}
+a {
+  outline: none;
+}
 
 h1 span, ul span {
   display: block;
